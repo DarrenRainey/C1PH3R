@@ -24,4 +24,4 @@ Group of making tools, programs payloads etc.
 
 
 # Idea's
-1. Program that shuts of when taskmanager is opend
+1. ~Program that shuts of when taskmanager is opend~ - Complete See Hide-And-Execute folder
